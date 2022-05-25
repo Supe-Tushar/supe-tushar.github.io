@@ -1,1 +1,2 @@
-Do not change name of "important_links.html" html file
+Do not change name of "index.html" file.
+QR code is associated with it.
