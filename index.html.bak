@@ -65,7 +65,7 @@
 				<!-- Intro -->
 					<section id="top" class="one dark cover">
 						<div class="container">
-							<!-- <p>[ Currently Under Construction ]</p> -->
+							<p>[ Currently Under Construction ]</p>
 
 							<header>
 								<h2 class="alt">Hi, I'm <strong>Tushar Supe !</strong></h2>
@@ -112,7 +112,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 									<article class="item">
 										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
 										<header>
-											<h3>Online Support Ticket System Web App</h3>
+											<h3>Web App: Flash-Cards</h3>
 										</header>
 									</article>
 								</div>
@@ -121,7 +121,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 									<article class="item">
 										<a href="#" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
 										<header>
-											<h3>Flash-Cards Web App</h3>
+											<h3>Game: Save The Pod</h3>
 										</header>
 									</article>
 								</div>
@@ -132,7 +132,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 											<img src="./Projects/Coding_Puzzles/coding_puzzles_thumbnail.png" alt="coding_puzzles_thumbnail" width="420"/>
 										</a>
 										<header>
-											<h3>Coding-Puzzles Android App</h3>
+											<h3>Android App: Coding-Puzzles</h3>
 										</header>
 									</article>
 								</div>
@@ -147,7 +147,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 									<article class="item">
 										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
 										<header>
-											<h3>Save The Pod Python Game</h3>
+											<h3>Movie Subtitles Downloader</h3>
 										</header>
 									</article>
 								</div>
