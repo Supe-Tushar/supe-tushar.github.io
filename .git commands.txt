@@ -1,0 +1,7 @@
+pwd
+git init -b intermediate
+git config --global user.name "tushar"
+git config --global user.email "tusharsupe2311@gmail.com"
+git remote add origin https://github.com/Supe-Tushar/supe-tushar.github.io.git
+git status
+git pull origin intermediate
