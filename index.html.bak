@@ -121,7 +121,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 								
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
+										<a href="./Projects/FlashCards/flashcards.html" class="image fit"><img src="./Projects/FlashCards/flashcards_thumbnail.png" alt="flashcards_thumbnail" /></a>
 										<header>
 											<h3>Flash-Cards Web App</h3>
 										</header>
@@ -147,7 +147,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 							
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
+										<a href="./Projects/Save_The_Pod_PyGame/save_the_pod_pygame.html" class="image fit"><img src="./Projects/Save_The_Pod_PyGame/thumbnail.png" alt="save_the_pod_pygame" /></a>
 										<header>
 											<h3>Save The Pod Python Game</h3>
 										</header>
@@ -159,6 +159,15 @@ Data Science offered by IIT Madras, Chennai.</p>
 										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
 										<header>
 											<h3>DCGAN with Fashion MNIST</h3>
+										</header>
+									</article>
+								</div>
+                                
+                                <div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
+										<header>
+											<h3>CNN Object Classification and Localization</h3>
 										</header>
 									</article>
 								</div>
