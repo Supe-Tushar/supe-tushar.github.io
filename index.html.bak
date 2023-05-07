@@ -69,8 +69,10 @@
 
 							<header>
 								<h2 class="alt">Hi, I'm <strong>Tushar Supe !</strong></h2>
-								<p>Dedicated and motivated Mechanical Engineer, currently pursuing an online B.Sc. degree course in Programming and 
-Data Science offered by IIT Madras, Chennai.</p>
+								<p>Aspiring Data Scientist</p>
+                                <p>B.Tech. in Mechanical Engineering, VNIT Nagpur 2019</p>
+                                <p>B.Sc. in Programming and Data Science, IIT Madras 2023</p>
+                                <p>BS in Data Science and Applications, IIT Madras 2024</p>
 								</br>
 								
 							</header>
@@ -85,9 +87,9 @@ Data Science offered by IIT Madras, Chennai.</p>
 										<a href="#" class="button scrolly">Articles</a>
 									</div>
 									<div class="col">
-										<a href="#" class="button scrolly">Resume</a>
+										<a href="./Projects/Resume/resume_page.html" class="button scrolly">Resume</a>
 										</br></br>
-										<a href="links.html" class="button scrolly">Links</a>
+										<a href="#" class="button scrolly">Links</a>
 									</div>
 								</div>
 							</div>
@@ -147,7 +149,7 @@ Data Science offered by IIT Madras, Chennai.</p>
 							
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="./Projects/Save_The_Pod_PyGame/save_the_pod_pygame.html" class="image fit"><img src="./Projects/Save_The_Pod_PyGame/thumbnail.png" alt="save_the_pod_pygame" /></a>
+										<a href="./Projects/Save_The_Pod_PyGame/save_the_pod_pygame.html" class="image fit"><img src="./Projects/Save_The_Pod_PyGame/save_the_pod_pygame_thumbnail.png" alt="save_the_pod_pygame_thumbnail" /></a>
 										<header>
 											<h3>Save The Pod Python Game</h3>
 										</header>
@@ -156,23 +158,40 @@ Data Science offered by IIT Madras, Chennai.</p>
 								
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
+										<a href="./Projects/GAN_Digits_MNIST/gan_digits_mnist.html" class="image fit"><img src="./Projects/GAN_Digits_MNIST/gan_digits_mnist_thumbnail.png" alt="gan_digits_mnist_thumbnail" /></a>
 										<header>
-											<h3>DCGAN with Fashion MNIST</h3>
+											<h3>DCGAN with Digits MNIST</h3>
 										</header>
 									</article>
 								</div>
                                 
                                 <div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="project.html" class="image fit"><img src="https://via.placeholder.com/420x290" alt="" /></a>
+										<a href="./Projects/GAN_Anime_Faces/gan_anime_faces.html" class="image fit"><img src="./Projects/GAN_Anime_Faces/gan_anime_faces_thumbnail.png" alt="gan_anime_faces_thumbnail" /></a>
 										<header>
-											<h3>CNN Object Classification and Localization</h3>
+											<h3>DCGAN with Anime Faces</h3>
 										</header>
 									</article>
 								</div>
 							
 							</div>
+                            
+                            <p></p>
+							
+							<div class="row">
+							
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="./Projects/CNN_Object_Classify_Localize/cnn_object_classify_and_localize.html" class="image fit"><img src="./Projects/CNN_Object_Classify_Localize/cnn_object_classify_and_localize_thumbnail.png" alt="cnn_object_classify_and_localize_thumbnail" /></a>
+										<header>
+											<h3>CNN Object Classification and Localization</h3>
+										</header>
+									</article>
+								</div>
+								
+							</div>
+                            
+                            
 						
 						</div>
 					</section>
