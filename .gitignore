@@ -1,12 +1,5 @@
 .DS_Store
-node_modules
-/dist
-code/frontend/node_modules/
-code/supportTicketVenv/
-code/FlashCards_MAD2/
-code/backend/application/__pycache__/
-code/backend/application/views/__pycache__/
-code/backend/databases/images/
+
 
 
 # local env files
@@ -23,7 +16,10 @@ pnpm-debug.log*
 .idea
 .vscode
 .internal
+.*
 !/.gitignore
+*.bak
+*.pyc
 *.suo
 *.ntvs*
 *.njsproj
